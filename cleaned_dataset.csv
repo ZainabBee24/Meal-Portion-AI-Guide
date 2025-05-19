@@ -1,0 +1,101 @@
+age,gender,weight,bmr,activity,sleep,stress,activity_factor,sleep_quality_score,activity_encoded
+56,1,228.4,3102.3,Sedentary,Excellent,6,1.2,4,2
+46,0,165.4,2275.5,Very Active,Excellent,6,1.725,4,3
+32,0,142.8,2119.4,Sedentary,Good,3,1.2,3,2
+25,0,145.5,2181.3,Sedentary,Fair,2,1.2,2,2
+38,1,155.5,2463.8,Lightly Active,Good,1,1.375,3,0
+56,0,152.9,2100.6,Sedentary,Poor,6,1.2,1,2
+36,1,107.3,1991.3,Moderately Active,Poor,5,1.55,1,1
+40,1,207.9,2977.9,Moderately Active,Poor,9,1.55,1,1
+28,0,169.5,2406.9,Very Active,Poor,1,1.725,1,3
+28,0,169.2,2403.3,Sedentary,Excellent,7,1.2,4,2
+41,1,194.5,2839.1,Very Active,Poor,5,1.725,1,3
+53,1,138.4,2217.4,Moderately Active,Excellent,5,1.55,4,1
+57,0,147.3,2039.0,Sedentary,Excellent,2,1.2,4,2
+41,0,183.7,2483.7,Sedentary,Poor,3,1.2,1,2
+20,0,168.1,2432.2,Very Active,Poor,7,1.725,1,3
+39,1,180.3,2707.2,Moderately Active,Fair,6,1.55,2,1
+19,1,167.6,2679.7,Sedentary,Good,2,1.2,3,2
+41,1,162.8,2521.3,Very Active,Poor,6,1.725,1,3
+47,1,213.0,2993.8,Moderately Active,Fair,2,1.55,2,1
+55,1,202.0,2843.5,Very Active,Fair,2,1.725,2,3
+19,1,100.0,2003.8,Lightly Active,Good,2,1.375,3,0
+38,0,214.4,2805.6,Sedentary,Excellent,3,1.2,4,2
+50,1,234.8,3196.4,Lightly Active,Poor,2,1.375,1,0
+29,1,207.0,3023.3,Moderately Active,Good,4,1.55,3,1
+39,1,163.6,2539.5,Lightly Active,Poor,9,1.375,1,0
+42,0,149.3,2134.7,Lightly Active,Fair,6,1.375,2,0
+44,1,191.8,2797.1,Moderately Active,Fair,1,1.55,2,1
+59,1,151.4,2318.0,Very Active,Excellent,8,1.725,4,3
+45,0,180.7,2433.3,Lightly Active,Fair,7,1.375,2,0
+33,1,169.3,2627.2,Very Active,Fair,3,1.725,2,3
+32,1,206.5,3004.2,Lightly Active,Good,1,1.375,3,0
+20,1,158.3,2581.9,Very Active,Poor,5,1.725,1,3
+54,1,156.7,2395.9,Moderately Active,Poor,4,1.55,1,1
+24,1,181.3,2792.2,Lightly Active,Good,8,1.375,3,0
+38,0,228.0,2941.7,Moderately Active,Excellent,1,1.55,4,1
+26,0,172.4,2445.8,Lightly Active,Poor,1,1.375,1,0
+56,0,157.5,2146.6,Moderately Active,Fair,4,1.55,2,1
+35,1,195.7,2881.0,Moderately Active,Poor,8,1.55,1,1
+21,1,191.5,2909.2,Lightly Active,Fair,5,1.375,2,0
+42,1,141.5,2303.3,Lightly Active,Excellent,2,1.375,4,0
+31,0,153.9,2235.7,Lightly Active,Good,6,1.375,3,0
+26,1,202.9,2997.7,Sedentary,Poor,5,1.2,1,2
+43,1,182.8,2712.2,Very Active,Good,2,1.725,3,3
+19,0,100.0,1756.5,Sedentary,Poor,3,1.2,1,2
+37,1,184.5,2758.3,Sedentary,Fair,9,1.2,2,2
+45,0,197.8,2604.4,Moderately Active,Good,7,1.55,3,1
+24,0,144.9,2180.2,Lightly Active,Poor,7,1.375,1,0
+25,0,190.3,2629.7,Very Active,Fair,6,1.725,2,3
+52,1,226.2,3100.4,Moderately Active,Good,8,1.55,3,1
+31,1,181.9,2762.7,Sedentary,Good,4,1.2,3,2
+34,1,151.2,2441.1,Lightly Active,Poor,8,1.375,1,0
+53,1,154.3,2377.0,Moderately Active,Poor,4,1.55,1,1
+57,1,170.4,2517.7,Lightly Active,Poor,8,1.375,1,0
+21,1,181.3,2807.1,Moderately Active,Fair,9,1.55,2,1
+19,1,171.9,2722.6,Lightly Active,Poor,3,1.375,1,0
+23,0,185.0,2587.0,Sedentary,Good,3,1.2,3,2
+59,1,165.6,2459.7,Very Active,Good,2,1.725,3,3
+21,0,175.4,2500.7,Sedentary,Poor,3,1.2,1,2
+46,1,198.9,2858.2,Very Active,Poor,3,1.725,1,3
+35,1,138.1,2304.3,Lightly Active,Excellent,5,1.375,4,0
+43,1,173.3,2616.4,Moderately Active,Good,5,1.55,3,1
+51,0,173.2,2328.2,Sedentary,Fair,2,1.2,2,2
+27,0,197.6,2692.7,Very Active,Excellent,6,1.725,4,3
+53,0,163.2,2218.5,Sedentary,Poor,5,1.2,1,2
+31,0,189.6,2592.4,Very Active,Poor,6,1.725,1,3
+48,1,203.1,2889.6,Sedentary,Good,1,1.2,3,2
+32,0,114.5,1836.6,Very Active,Poor,5,1.725,1,3
+25,1,205.1,3024.3,Very Active,Fair,9,1.725,2,3
+31,1,140.4,2348.1,Lightly Active,Good,2,1.375,3,0
+40,0,137.2,2023.3,Very Active,Poor,1,1.725,1,3
+57,0,100.0,1566.5,Lightly Active,Good,9,1.375,3,0
+38,0,145.9,2120.5,Very Active,Poor,9,1.725,1,3
+33,0,169.9,2385.0,Moderately Active,Poor,9,1.55,1,1
+35,0,158.5,2261.5,Moderately Active,Poor,6,1.55,1,1
+41,0,156.1,2207.7,Moderately Active,Fair,8,1.55,2,1
+43,0,136.6,2002.8,Very Active,Fair,1,1.725,2,3
+42,0,196.0,2601.7,Lightly Active,Good,4,1.375,3,0
+58,1,198.8,2796.3,Lightly Active,Poor,1,1.375,1,0
+46,0,182.5,2446.9,Very Active,Poor,8,1.725,1,3
+32,0,113.4,1825.5,Moderately Active,Fair,1,1.55,2,1
+18,1,238.2,3390.8,Moderately Active,Poor,3,1.55,1,1
+42,0,174.4,2385.6,Lightly Active,Fair,4,1.375,2,0
+24,1,186.2,2840.6,Moderately Active,Poor,8,1.55,1,1
+26,1,125.1,2219.3,Sedentary,Good,6,1.2,3,2
+41,0,169.7,2343.1,Lightly Active,Poor,7,1.375,1,0
+18,1,182.4,2832.8,Moderately Active,Poor,8,1.55,1,1
+25,1,165.8,2631.5,Lightly Active,Excellent,2,1.375,4,0
+41,1,196.2,2855.4,Sedentary,Fair,8,1.2,2,2
+28,1,209.0,3048.9,Lightly Active,Poor,3,1.375,1,0
+34,0,129.7,1978.4,Lightly Active,Poor,7,1.375,1,0
+25,1,195.5,2928.8,Lightly Active,Excellent,3,1.375,4,0
+52,0,181.8,2409.8,Lightly Active,Excellent,7,1.375,4,0
+52,1,169.9,2537.3,Sedentary,Fair,2,1.2,2,2
+50,1,122.9,2077.5,Very Active,Excellent,6,1.725,4,3
+22,1,214.4,3132.7,Lightly Active,Good,3,1.375,3,0
+59,1,181.9,2622.8,Lightly Active,Excellent,3,1.375,4,0
+56,0,116.5,1736.5,Moderately Active,Good,9,1.55,3,1
+58,0,162.7,2188.6,Lightly Active,Fair,7,1.375,2,0
+45,1,179.8,2671.9,Moderately Active,Fair,5,1.55,2,1
+24,1,185.2,2830.7,Very Active,Fair,7,1.725,2,3
