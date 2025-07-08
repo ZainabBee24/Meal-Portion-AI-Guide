@@ -5,6 +5,13 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 import joblib
 
+import os
+import streamlit as st  # if not already imported
+
+st.write("model.pkl found:", os.path.exists("model.pkl"))
+st.write("le_gender.pkl found:", os.path.exists("le_gender.pkl"))
+st.write("le_activity.pkl found:", os.path.exists("le_activity.pkl"))
+
 # Load model and encoders
 model = joblib.load("model.pkl")
 le_gender = joblib.load("le_gender.pkl")
