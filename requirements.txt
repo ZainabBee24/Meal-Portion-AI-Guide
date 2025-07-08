@@ -1,5 +1,4 @@
-
-gradio
+streamlit 
 pandas
 matplotlib
 scikit-learn
